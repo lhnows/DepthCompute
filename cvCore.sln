@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cvCore", "cvCore\cvCore.vcxproj", "{63B5A722-62F8-4004-BA5B-6D23F8BBAF7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B5A722-62F8-4004-BA5B-6D23F8BBAF7A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63B5A722-62F8-4004-BA5B-6D23F8BBAF7A}.Debug|Win32.Build.0 = Debug|Win32
+		{63B5A722-62F8-4004-BA5B-6D23F8BBAF7A}.Release|Win32.ActiveCfg = Release|Win32
+		{63B5A722-62F8-4004-BA5B-6D23F8BBAF7A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
